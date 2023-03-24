@@ -1,0 +1,84 @@
+{
+  "productos": [
+    {
+      "name": "Arroz",
+      "products": 20,
+      "units": 40,
+      "porcentaje_in_profit": "15%",
+      "package_purchase_price": 160000,
+      "unit_purchase_price": 4000
+    },
+    {
+      "name": "Azúcar",
+      "products": 30,
+      "units": 300,
+      "porcentaje_in_profit": "10%",
+      "package_purchase_price": 60000,
+      "unit_purchase_price": 200
+    },
+    {
+      "name": "Aceite",
+      "products": 15,
+      "units": 150,
+      "porcentaje_in_profit": "20%",
+      "package_purchase_price": 225000,
+      "unit_purchase_price": 1500
+    },
+    {
+      "name": "Café",
+      "products": 25,
+      "units": 250,
+      "porcentaje_in_profit": "25%",
+      "package_purchase_price": 175000,
+      "unit_purchase_price": 700
+    },
+    {
+      "name": "Frijoles",
+      "products": 10,
+      "units": 50,
+      "porcentaje_in_profit": "12%",
+      "package_purchase_price": 80000,
+      "unit_purchase_price": 1600
+    },
+    {
+      "name": "Harina",
+      "products": 12,
+      "units": 120,
+      "porcentaje_in_profit": "18%",
+      "package_purchase_price": 90000,
+      "unit_purchase_price": 750
+    },
+    {
+      "name": "Leche",
+      "products": 18,
+      "units": 90,
+      "porcentaje_in_profit": "10%",
+      "package_purchase_price": 108000,
+      "unit_purchase_price": 1200
+    },
+    {
+      "name": "Mantequilla",
+      "products": 7,
+      "units": 70,
+      "porcentaje_in_profit": "15%",
+      "package_purchase_price": 175000,
+      "unit_purchase_price": 2500
+    },
+    {
+      "name": "Pasta",
+      "products": 22,
+      "units": 220,
+      "porcentaje_in_profit": "8%",
+      "package_purchase_price": 88000,
+      "unit_purchase_price": 400
+    },
+    {
+      "name": "Sal",
+      "products": 40,
+      "units": 400,
+      "porcentaje_in_profit": "5%",
+      "package_purchase_price": 60000,
+      "unit_purchase_price": 150
+    }
+  ]
+}

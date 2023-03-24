@@ -1,0 +1,77 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  /* outline: 1px solid red; */
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.contain {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+}
+
+.inventoryContain {
+  display: flex;
+  border-radius: 10px;
+  gap: 50px;
+  width: 90%;
+  overflow-x: scroll;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  height: 100%;
+}
+
+.inventoryContain {
+  scrollbar-width: thin; /* ajusta el ancho del scrollbar */
+  scrollbar-color: #ccc #fff; /* ajusta el color del scrollbar */
+}
+
+.inventoryContain::-webkit-scrollbar {
+  width: 8px;
+  height: 10px;
+}
+
+.inventoryContain::-webkit-scrollbar-thumb {
+  background-color: rgb(69, 69, 69);
+  border-radius: 5px;
+}
+
+.Contains {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 20px 15px;
+  background-color: #e2e2e2;
+  border-radius: 10px;
+}
+
+.Contains:nth-child(even) {
+  background-color: #bdbdbd;
+}
+
+.Contains:nth-child(n + 7){
+  background-color: rgb(255, 255, 255);
+  outline: 1px solid black;
+}
+
+.Contains:nth-child(1) {
+  display: block;
+}
+
+.c {
+  width: 150px;
+}
+
+.d{
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+  border-bottom: 1px solid rgb(69, 69, 69);
+}
+
+.uno{
+  font-size: 50px;
+}
